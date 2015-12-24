@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-more-source",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "add more source path to inport more files",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wangsai/metalsmith-more-source/issues"
   },
-  "homepage": "https://github.com/wangsai/metalsmith-more-source#readme"
+  "homepage": "https://github.com/wangsai/metalsmith-more-source#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
